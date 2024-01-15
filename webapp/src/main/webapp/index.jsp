@@ -38,7 +38,7 @@
    <h1> Thankyou, Happy Learning </h1> 
    <h2> Hello world</h2>
    <h2> Learning Devops</h2>
-   <h2> today date is 25 jan 2024</h2>
+   <h2> today date is 15 jan 2024</h2>
    <h2> this job done automatically </h2>
    <h2> test </h2>
 
