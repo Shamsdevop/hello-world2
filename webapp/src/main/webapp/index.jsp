@@ -40,7 +40,8 @@
    <h2> Learning Devops</h2>
    <h2> today date is 15 jan 2024</h2>
    <h2> this job done automatically </h2>
-   <h2> test </h2>
+   <h2> test </h2
+   <h2> hello today am learning ansible </h2>
 
   
 </form>
