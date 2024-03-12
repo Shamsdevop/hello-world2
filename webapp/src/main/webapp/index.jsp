@@ -50,5 +50,5 @@
    <h2> revision </h2>
    <h2> code is updated  13feb 2024</h2
    <h3> today work on ansible 24 feb  </h3>
-   <h3> hello world today is 24 feb 2024 </h3>
+   <h3> hello world today is 1 March 2024 </h3>
    </form>
